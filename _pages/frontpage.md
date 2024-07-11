@@ -51,29 +51,17 @@ Más información sobre los instructores [here](https://machine-learning-in-glac
 
 # Patrocinadores
 
+El curso está patrocinado por el [TU Delft Climate Action grant](https://www.tudelft.nl/en/climate-action), the [Research Council of Norway project MASSIVE](https://www.mn.uio.no/geo/english/research/projects/massive/index.html) and [IACS](https://cryosphericsciences.org/).
+
 
 # Instituciones participantes
 El Taller cuenta con el apoyo de las siguientes instituciones:
 <br>
-<img src="assets/imgs/02_uio_full_logo_eng_pos_small.jpg" width="300"> <br>
-
-<img src="assets/imgs/TUDelft_logo_rgb.png" width="200"> <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Universit%C3%A9_Grenoble_Alpes_2020.svg/1280px-Logo_Universit%C3%A9_Grenoble_Alpes_2020.svg.png" width="200"> <br>
 
-<img src="assets/imgs/berkeley.png" width="200"> <br>
-
-<img src="assets/imgs/University of Twente logo-stacked.png" width="200"> <br>
-
-<img src="https://study-eu.s3.eu-west-1.amazonaws.com/uploads/university/western-norway-university-of-applied-sciences-logo.png" width="250"> <br>
 
 <br>
-
-El curso está patrocinado por el [TU Delft Climate Action grant](https://www.tudelft.nl/en/climate-action), the [Research Council of Norway project MASSIVE](https://www.mn.uio.no/geo/english/research/projects/massive/index.html) and [IACS](https://cryosphericsciences.org/).
-
-<img src="assets/imgs/TUDelft_logo_rgb.png" width="200"> <br>
-<img src="assets/imgs/02_uio_full_logo_eng_pos_small.jpg" width="300"> <br>
-<img src="assets/imgs/iacs.png" width="350"> <br>
 
 <!---
 # Participant selection
