@@ -51,7 +51,7 @@ Más información sobre los instructores [here](https://machine-learning-in-glac
 
 # Patrocinadores
 
-El curso está patrocinado por el [TU Delft Climate Action grant](https://www.tudelft.nl/en/climate-action), the [Research Council of Norway project MASSIVE](https://www.mn.uio.no/geo/english/research/projects/massive/index.html) and [IACS](https://cryosphericsciences.org/).
+El Taller está patrocinado por el Proyecto "Tropical to polar glacier mass balance reconstructions and their relationship with climate variability" [(TROPIPOLAR-GLASCLIM)] del Programa Internacional [CLIMAT-AmSud](https://www.sticmathamsud.org/sitio/).
 
 
 # Instituciones participantes
