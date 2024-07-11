@@ -1,0 +1,40 @@
+title: Taller de Climatología y Glaciología 2024 - Huaraz, Perú
+description: 1er Taller de Climatología y Glaciología usando Modelos Climáticos Regionales e Aprendizaje Automático.
+
+theme: minima
+
+# base_url: /gh-pages-minima-starter
+base_url: /_pages/frontpage.md
+
+# Minima social links
+# twitter_username: xurxosanz
+# github_username: jsanz
+# linkedin_username: jsanz
+# rss: rss
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/projects.md
+  - _pages/instructors.md
+  - _pages/practical_info.md
+  - _pages/schedule.md
+
+include:
+    - _pages
+
+exclude: 
+    - _pages/outdoor.md
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - UiBlogo_Eng_white_left.png
