@@ -58,15 +58,13 @@ El Taller está patrocinado por el Proyecto "Tropical to polar glacier mass bala
 El Taller cuenta con el apoyo de las siguientes instituciones:
 <br>
 
-<img src="https://campussvp.furg.br/images/marca-abreviada-vertical-cores-originais-furg.png" width="200"> <br>
+<img src="https://campussvp.furg.br/images/marca-abreviada-vertical-cores-originais-furg.png" width="150"> <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo_universidad_de_valparaiso_2008.svg/301px-Logo_universidad_de_valparaiso_2008.svg.png" width="200"> <br>
 
-<img src="https://www.unasam.edu.pe/web/logounasam/logo-08-11-2021-18-36-15.png" width="200"> <br>
+<img src="https://www.unasam.edu.pe/web/logounasam/logo-08-11-2021-18-36-15.png" width="300"> <br>
 
-<img src="https://www.unasam.edu.pe/web/logounasam/logo-08-11-2021-18-36-15.png" width="200"> <br>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Umsa-logo.svg/297px-Umsa-logo.svg.png" width="200"> <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Umsa-logo.svg/297px-Umsa-logo.svg.png" width="100"> <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Universit%C3%A9_Grenoble_Alpes_2020.svg/1280px-Logo_Universit%C3%A9_Grenoble_Alpes_2020.svg.png" width="200"> <br>
 
