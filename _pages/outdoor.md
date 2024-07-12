@@ -1,8 +1,8 @@
 ---
 permalink: /outdoor
 layout: page
-title: Outdoor activities
-list_title: Outdoor activities
+title: Actividades al aire libre
+list_title: Actividades al aire libre
 ---
 
 ### 2024 workshop

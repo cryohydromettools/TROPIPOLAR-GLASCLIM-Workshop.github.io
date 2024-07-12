@@ -1,7 +1,7 @@
 ---
 permalink: /schedule
 layout: page
-title: Schedule
+title: Programa
 ---
 
 The preliminary schedule for the 2024 workshop can be downloaded [HERE](https://raw.githubusercontent.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/master/assets/MLinGLACIOLOGY2024_schedule_v20240311.pdf)

@@ -1,7 +1,7 @@
 ---
 permalink: /instructors
 layout: page
-title: Instructors
+title: Instructores
 ---
 
 # [Jordi Bolibar](https://jordibolibar.wordpress.com/)
@@ -19,6 +19,7 @@ Jordi is a Postdoctoral researcher at IGE, Université Grenoble Alpes (France). 
 <br>
 <br>
 
+<!--
 # [Regine Hock](https://www.mn.uio.no/geo/english/people/aca/geohyd/regineho/index.html)
 <div>
 <div style="float: left; padding: 10px">
@@ -37,7 +38,9 @@ Regine is a Professor at the University of Oslo. She is a hydrologist and glacio
 <br>
 <br>
 <br>
+-->
 
+<!--
 # [Konstantin Maslov](https://research.utwente.nl/en/persons/konstantin-maslov)
 <div>
 <div style="float: left; padding: 10px">
@@ -50,6 +53,7 @@ Konstantin is a PhD student at the Faculty of Geo-Information Science and Earth 
 <br>
 <br>
 <br>
+-->
 
 <!--
 # [Benjamin Aubrey Robson](https://www.uib.no/en/persons/Benjamin.Aubrey.Robson)
@@ -66,6 +70,7 @@ Ben is an Associate Professor at the University of Bergen. Ben’s research is f
 <br>
 -->
 
+<!--
 # [Facundo Sapienza](https://statistics.berkeley.edu/people/facu-sapienza)
 <div>
 <div style="float: left; padding: 10px">
@@ -103,3 +108,5 @@ Thomas is a researcher at the University of Oslo. He investigates the dynamics o
 Kamilla is a PhD candidate at the Western Norway University of Applied Sciences. She investigates the use of Bayesian and Machine Learning approaches to model and understand past and future changes in mass balance of Norwegian glaciers. 
 </div>
 </div>
+-->
+

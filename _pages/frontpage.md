@@ -21,16 +21,16 @@ Si desea participar en el Taller, envíe su solicitud [AQUÍ](https://forms.gle/
 El taller incluirá:
 
 - Conferencias magistrales sobre Modelamiento Climático Regional, Eventos Climáticos Extremos, Modelamiento Glaciológico y la Aplicación del Aprendizaje Automático en la Glaciología (aprox. 2 días).
-- Talleres Prácticos: Los participantes que asistan de forma presencial aprenderán el uso de modelos físicos [COSIPY]() y el uso del [aprendizaje automático](https://machine-learning-in-glaciology-workshop.github.io/projects) para el modelamiento glaciológico. Ambos métodos se utilizan para modelar el balance de masa superficial de algunos glaciares de la Cordillera Blanca. También podrán diseñar su propio proyecto a partir de sus propias ideas y datos en colaboración con los instructores y otros participantes en un "hackathon".
+- Talleres Prácticos: Los participantes que asistan de forma presencial aprenderán el uso de modelos físicos [COSIPY](https://cryo-tools.org/tools/cosipy/) y el uso del [Aprendizaje Automático]() para el modelamiento glaciológico. Ambos métodos se utilizan para modelar el balance de masa superficial de algunos glaciares de la Cordillera Blanca. También podrán diseñar su propio proyecto a partir de sus propias ideas y datos en colaboración con los instructores y otros participantes en un "hackathon".
 - Miniconferencia de 2 horas en la que todos los participantes que participen de forma presencial compartan los resultados de sus proyectos.
 - Tarde libre para actividades al aire libre (senderismo, carrera).
 <br>
-Encontrará un programa preliminar en la [página del programa].(schedule.md)
+Encontrará un programa preliminar en la [página del programa](schedule.md)
 <br>
 
-# Organización de taller 
+# Organización 
 
-Organizadores e instructores de talleres: <br>
+Organizadores e instructores del taller: <br>
 <br>
 Jorge Arigony-Neto (Universidade Federal do Rio Grande, Brasil) <br>
 Deniz Bozkurt (Universidad de Valparaíso, Chile) <br>
@@ -51,14 +51,14 @@ Más información sobre los instructores [here](https://machine-learning-in-glac
 
 # Patrocinadores
 
-El Taller está patrocinado por el Proyecto "Tropical to polar glacier mass balance reconstructions and their relationship with climate variability" [(TROPIPOLAR-GLASCLIM)] del Programa Internacional [CLIMAT-AmSud](https://www.sticmathamsud.org/sitio/).
+El Taller está patrocinado por el Proyecto "Tropical to polar glacier mass balance reconstructions and their relationship with climate variability" (TROPIPOLAR-GLASCLIM) del Programa Internacional [CLIMAT-AmSud](https://www.sticmathamsud.org/sitio/).
 
 
 # Instituciones participantes
 El Taller cuenta con el apoyo de las siguientes instituciones:
 <br>
 
-<img src="https://campussvp.furg.br/images/marca-abreviada-vertical-cores-originais-furg.png" width="150"> <br>
+<img src="https://campussvp.furg.br/images/marca-abreviada-vertical-cores-originais-furg.png" width="100"> <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo_universidad_de_valparaiso_2008.svg/301px-Logo_universidad_de_valparaiso_2008.svg.png" width="200"> <br>
 
