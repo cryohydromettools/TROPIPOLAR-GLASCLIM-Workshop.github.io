@@ -1,7 +1,7 @@
 ---
 permalink: /projects
 layout: page
-title: Projects
+title: Proyectos
 ---
 
 The primary goal of this workshop is to work on a project with one of the instructors for a week. There are three options for participants: you can either join one of the two pre-established projects, meant to learn the basics of machine learning applied to glacier modelling or remote sensing, or you can bring your own project. 
