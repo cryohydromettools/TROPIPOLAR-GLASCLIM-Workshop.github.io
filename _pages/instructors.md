@@ -11,7 +11,13 @@ title: Instructores
 </div>
 <div>
 Jordi es investigador postdoctoral en el IGE, Université Grenoble Alpes (Francia). La investigación de Jordi se centra en aplicar el Aprendizaje Automático y modelos físicos para modelar, comprender y predecir las interacciones entre el clima y los glaciares a grandes escalas geográficas. Actualmente está trabajando en <a href="https://github.com/ODINN-SciML/ODINN.jl">ODINN</a>, un proyecto donde investiga nuevas formas de aprender las leyes que rigen las interacciones entre el clima y los glaciares utilizando Aprendizaje Automático y ecuaciones diferenciales.
-
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # [Christian Torres](https://orcid.org/0000-0001-5530-2119)
 <div>

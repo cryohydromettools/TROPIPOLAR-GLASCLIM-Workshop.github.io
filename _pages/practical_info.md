@@ -8,7 +8,7 @@ list_title: Información práctica
 
 
 ## Solicitud y selección de participantes
-ISi desea participar en el Taller, envíe su solicitud [AQUÍ](https://forms.gle/soELJYoyENhFNjPY7) antes del 20 de agosto de 2024, a las 23:59 UTC. El número de participantes que asistan de forma presencial está limitado a 15- Se informará a los solicitantes sobre la admisión por correo electrónico a principios de septiembre. Si tiene alguna pregunta, no dude en contactarnos en mlglaciology.workshop@gmail.com.
+ISi desea participar en el Taller, envíe su solicitud [AQUÍ](https://forms.gle/soELJYoyENhFNjPY7) antes del 20 de agosto de 2024, a las 23:59 UTC. El número de participantes que asistan de forma presencial está limitado a 15. Se informará a los solicitantes sobre la admisión por correo electrónico a principios de septiembre. Si tiene alguna pregunta, no dude en contactarnos en mlglaciology.workshop@gmail.com.
 
 ## ¿Quién puede participar?
 

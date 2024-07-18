@@ -8,12 +8,12 @@ list_title: Home
 <img src="assets/imgs/TROPIPOLAR-GLASCLIM-CARD1.png" width="650"> <br>
 
 
-El 1er Taller de Climatología y Glaciología se celebrará del 6 al 12 de octubre de 2024 en la ciudad de Huaraz, Perú. Esta ciudad es conocida por sus atractivas montañas, glaciares y lagunas, las cuales se encuentran en la [Cordillera Blanca](https://www.peru.travel/es/atractivos/cordillera-blanca). El Taller está dirigido a estudiantes e investigadores de todas las etapas de su carrera que estén interesados en el estudio de la climatología y glaciología usando Modelos Climáticos Regionales (MCRs) y técnicas de Aprendizaje Automático. El taller está diseñado en dos formatos. (1) Durante las mañanas se desarrollarán conferencias magistrales donde se discutirán temas actuales relacionados al modelamiento climático, eventos climáticos extremos, modelamiento glaciológico, técnicas de Aprendizaje Automático aplicado a la glaciología. Este primer formato se desarrollará presencial y virtual (híbrido). (2) Durante las tardes se desarrollarán ejercicios prácticos sobre modelamiento glaciológico usando modelos físicos y técnicas de aprendizaje automático. Este segundo formato se desarrollará apenas con los participantes que asistan de forma presencial. Además, el taller práctico se basa principalmente en proyectos. Puede obtener más información sobre los proyectos en la [página de proyectos](projects.md). Todos los materiales de clases estarán reunidos en un Jupyter Book, que se estará actualizando iterativamente con los comentarios de los participantes. Los participantes también pueden diseñar su propio proyecto basado en sus propias ideas y datos en colaboración con los instructores.
+El 1er Taller Internacional de Climatología y Glaciología se celebrará del 7 al 12 de Octubre de 2024 en la ciudad de Huaraz, Perú. Esta ciudad es conocida por sus atractivas montañas, glaciares y lagunas, las cuales se encuentran en la [Cordillera Blanca](https://www.peru.travel/es/atractivos/cordillera-blanca). El Taller está dirigido a estudiantes e investigadores de todas las etapas de su carrera que estén interesados en el estudio de la climatología y glaciología usando Modelos Climáticos Regionales (MCRs) y técnicas de Aprendizaje Automático. El taller está diseñado en dos formatos. (1) Durante las mañanas se desarrollarán conferencias magistrales donde se discutirán temas actuales relacionados al modelamiento climático, eventos climáticos extremos, modelamiento glaciológico, técnicas de Aprendizaje Automático aplicado a la glaciología. Este primer formato se desarrollará presencial y virtual (híbrido). (2) Durante las tardes se desarrollarán ejercicios prácticos sobre modelamiento glaciológico usando modelos físicos y técnicas de aprendizaje automático. Este segundo formato se desarrollará apenas con los participantes que asistan de forma presencial. Además, el taller práctico se basa principalmente en proyectos. Puede obtener más información sobre los proyectos en la [página de proyectos](projects.md). Todos los materiales de clases estarán reunidos en un Jupyter Book, que se estará actualizando iterativamente con los comentarios de los participantes. Los participantes también pueden diseñar su propio proyecto basado en sus propias ideas y datos en colaboración con los instructores.
 <br>
 
 # Inscripción
 
-Si desea participar en el Taller, envíe su solicitud [AQUÍ](https://forms.gle/soELJYoyENhFNjPY7) antes del 20 de agosto de 2024, a las 23:59 UTC. El número de participantes que asistan de forma presencial está limitado a 15 y se informará a los solicitantes sobre la admisión por correo electrónico a principios de septiembre. Si tiene alguna pregunta, no dude en ponerse en contacto con nosotros en christian010194@gmail.com. 
+Si desea participar en el Taller, envíe su solicitud [AQUÍ](https://forms.gle/soELJYoyENhFNjPY7) antes del 20 de agosto de 2024, a las 23:59 UTC. El número de participantes presenciales está limitado a 15. Los solicitantes serán informados sobre su admisión por correo electrónico a principios de septiembre. Si tiene alguna pregunta, no dude en ponerse en contacto con nosotros en christian010194@gmail.com. 
 <br>
 
 # Agenda
@@ -25,7 +25,7 @@ El taller incluirá:
 - Miniconferencia de 2 horas en la que todos los participantes que participen de forma presencial compartan los resultados de sus proyectos.
 - Tarde libre para actividades al aire libre (senderismo, carrera).
 <br>
-Encontrará un programa preliminar en la [página del programa](schedule.md)
+Encontrará un programa preliminar en la [página del programa](schedule.md).
 <br>
 
 # Organización 
