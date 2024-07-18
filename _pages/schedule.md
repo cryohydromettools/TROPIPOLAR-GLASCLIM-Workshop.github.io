@@ -9,34 +9,33 @@ The preliminary schedule for the 2024 workshop can be downloaded [HERE](https://
 The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.githubusercontent.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/master/assets/MLinGLACIOLOGY2023_schedule_v20230413.pdf)
 -->
 
-## Lectures
+## Conferencias
 
-[ Intro to Machine Learning ] Konstantin Maslov 
+[ Modelado Climático Regional ] Deniz Bozkurt
 
-[ Examples of Machine Learning applied in Glaciology ] Regine Hock
+[ Modelado Glaciológico ] Ruben Basantes
 
-[ Modelling ] Jordi Bolibar - Machine learning for glacier modelling.
+[ Introducción al Aprendizaje Automático ] Jordi Bolibar
 
-[ Remote sensing ] Konstantin Maslov - Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests.
+[ Ejemplos de Machine Learning aplicados en Glaciología ] 
 
-[ Software ] Facundo Sapienza - Introduction to Jupyter Hub and Git
-An introduction on how to use the JupyterHub, Jupyter notebooks and using Git for collaborative projects.
+[ Modelado ] Jordi Bolibar - Aprendizaje automático para el modelado de glaciares.
 
-[ Optional evening lectures ] Physics-based machine learning for glacier modelling & Introduction to Vision Transformers. 
+[ Software ] Christian Torres - Introducción a Jupyter Hub y Git una introducción sobre cómo usar JupyterHub, los cuadernos de Jupyter y cómo usar Git para proyectos colaborativos.
 
-## Projects
+## Proyectos
 
-[ Modelling ] Modelling glacier mass balance with machine learning.
+[ COSIPY ] Modelamiento del balance de masa usando con un modelo físico.
  
-[ Remote sensing ] Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests.
+[ Aprendizaje Automático ] Modelamiento del balance de masa usando Aprendizaje Automático.
 
-[ DIY ] Bring your own idea and data.
+[ DIY ] Traiga su propia idea y datos.
 
-## Outdoor activities
+## Actividad de Campo
 
-### 2024 workshop
+Reservamos el sábado todo el dia para visitar un glaciar cercano, localizado en la Cordillera Blanca.Asegúrese de traer ropa y equipo de exterior adecuados para sus actividades preferidas. Puede encontrar una lista de equipaje detallada en la [página de información práctica] (practical_info.md).
 
-We reserve Monday afternoon for outdoor activities (subject to change depending on weather condition). The area surrounding Finse are perfect for hikers and outdoor enthusiasts at any skill level. There are many trails and the closest outlet glacier of the ice cap can be reached in only one hour. This year's workshop will be held in late summer, with chances of cold weather and even some snow. Maker sure you bring suitable outdoor clothing and equipment for your prefered activities. A detailed packing list can be found on the [practical info page](practical_info.md).
+<!---
 
 ### 2023 workshop
 

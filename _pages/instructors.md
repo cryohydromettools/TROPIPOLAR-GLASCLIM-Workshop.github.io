@@ -10,7 +10,17 @@ title: Instructores
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/JBolibar_profile.jpg?raw=true" width="200">
 </div>
 <div>
-Jordi is a Postdoctoral researcher at IGE, Université Grenoble Alpes (France). Jordi’s research focuses on applying machine learning and physical models to model, understand and predict climate-glacier interactions at large geographical scales. He's currently working on <a href="https://github.com/ODINN-SciML/ODINN.jl">ODINN</a>, a project and modelling framework to investigate new ways to learn laws governing climate-glacier interactions using machine learning and differential equations.  
+Jordi es investigador postdoctoral en el IGE, Université Grenoble Alpes (Francia). La investigación de Jordi se centra en aplicar el Aprendizaje Automático y modelos físicos para modelar, comprender y predecir las interacciones entre el clima y los glaciares a grandes escalas geográficas. Actualmente está trabajando en <a href="https://github.com/ODINN-SciML/ODINN.jl">ODINN</a>, un proyecto donde investiga nuevas formas de aprender las leyes que rigen las interacciones entre el clima y los glaciares utilizando Aprendizaje Automático y ecuaciones diferenciales.
+
+
+# [Christian Torres](https://orcid.org/0000-0001-5530-2119)
+<div>
+<div style="float: left; padding: 10px">
+<img src="assets/imgs/Christian_Torres_profile.jpg" width="200">
+</div>
+<div>
+Christian es investigador posdoctoral en el Laboratorio de Monitoramento da Criosfera del Instituto Oceanográfico de la Universidade Federal do Rio Grande y del Instituto de Nacional de Ciência e Tecnologia da Criosfera (Brasil). Christian se centra en la interacción de los glaciares polares y el clima. Para evaluar el estado pasado y presente de los glaciares, Christian usa modelos glaciológicos físicos.
+
 </div>
 </div>
 <br>
