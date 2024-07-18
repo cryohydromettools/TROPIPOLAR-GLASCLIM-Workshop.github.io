@@ -1,8 +1,8 @@
 ---
 permalink: /practicalinfo
 layout: page
-title: Información práctica
-list_title: Información práctica
+title: Información Práctica
+list_title: Información Práctica
 ---
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/finse2014_0.jpg?raw=true" width="700">
 
@@ -46,13 +46,17 @@ Hay vuelos diarios desde la Ciudad de Lima a Huaraz (1 hora de viaje). A 20 km a
 Si prefiere un viaje terrestre, puede optar por un recorrido de 8 horas en bus, que dependiendo de la calidad y comodidad ofrecen servicios VIP y económicos. 
 
 
-## Alojamiento / comidas
+## Alojamiento / Comidas
 Existen muchas opciones de hospedaje en Huaraz. Al buscar opciones en google maps y otros medios online, se sugiere tener en cuenta la ubicación del hospedaje, así como los comentarios y/o calificaciones de otros visitantes.  
  
 
 Los platos típicos se pueden degustar en una variedad de restaurantes y recreos campestres, tanto en el corazón de la ciudad como en sus alrededores. Huaraz también cuenta con opciones de comida rápida (hamburguesas, pizzas, etc.) en puestos de comida generalmente ubicados en las avenidas principales de la ciudad. Los restaurantes que ofrecen los llamados “Menú” están conformados por un plato de entrada, plato fuerte y postre, con precios más económicos. Asimismo, Huaraz cuenta con restobars que presentan una selección de cervezas artesanales y cócteles.
 
-## Lista de embalaje
+## Más información
+
+Puedes encontrar información más detallada sobre el transporte, alojamiento y restaurantes de Huaraz [AQUÍ]().
+
+## Lista de cosas
 
 Por favor traer:
 
