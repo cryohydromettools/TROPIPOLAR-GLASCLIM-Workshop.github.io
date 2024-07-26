@@ -4,34 +4,34 @@ layout: page
 title: Proyectos
 ---
 
-The primary goal of this workshop is to work on a project with one of the instructors for a week. There are three options for participants: you can either join one of the two pre-established projects, meant to learn the basics of machine learning applied to glacier modelling or remote sensing, or you can bring your own project. 
+El objetivo principal de este taller es trabajar en un proyecto con uno de los instructores durante tres días. Hay tres opciones para los participantes: puedes unirte a uno de los dos proyectos preestablecidos, destinados a aprender los fundamentos del modelo físico y del aprendizaje automático aplicado al modelamiento del balance de masa glaciar, o puedes traer tu propio proyecto. 
 
-### [ Project 1 ] - [Modelling glacier mass balance with machine learning](https://github.com/Machine-Learning-in-Glaciology-Workshop/Project_MB_Regression) - *Jordi Bolibar, Kamilla Hauknes Sjursen and Facu Sapienza*
+### [ Proyecto 1 ] - [Modelamiento del balance de masa superficial mediante un modelo físico](https://cryo-tools.org/tools/cosipy/) - *Claudio Bravo y Christian Torres* 
+<div>
+<div style="float: left; padding: 10px">
+<img src="assets/imgs/COSIPY_an.png" width="400">
+</div>
+<div>
+El objetivo de este proyecto será aprender y aplicar un modelo físico glaciológico para simular el balance de masa superficial (BMS) de un glaciar de los Andes peruanos (Cordillera Blanca). Utilizaremos el COupled Snowpack and Ice surface energy and mass balance model in PYthon [(COSIPY)](https://github.com/cryotools/cosipy) para estimar el el BMS. Durante este proyecto utilizaremos información de contorno y topografía del inventario nacional de glaciares para recuperar datos topográficos del glaciar. Además, usaremos datos de reanálisis ERA5 para generar información climática para el glaciar durante 1 año. El modelos se ejecutará en un solo punto y distribuido para ver las diferencias en el BMS del glaciar.
+</div>
+</div>
+<br>
+<br>
+<br>
+
+### [ Proyecto 2 ] - [Modelamiento del balance de masa de los glaciares mediante Aprendizaje Automático](https://github.com/Machine-Learning-in-Glaciology-Workshop/Project_MB_Regression) - *Jordi Bolibar, Rubem Basantes y Christian Torres*
 <div>
 <div style="float: left; padding: 10px">
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/raw/master/assets/imgs/glacier_AI_lq.png" width="400">
 </div>
 <div>
-The goal of this project will be to learn and apply different types of machine learning and statistical regression methods (e.g. Lasso/Ridge, Random Forests, Gradient Boosting, neural networks...) to simulate glacier mass balance (MB) for all glaciers in Scandinavia. We will use the Open Global Glacier Model (OGGM) to retrieve glaciological and geodetic MB observations, and we will train multiple ML models using topographical and climate data. By using a common set of cross-validation folds, we will compare the different ML methods in order to understand their strenghts and weaknesses. Moreover, we will learn how to add soft physical constraints to the models. If needed, the project could be extended to also include ice flow dynamics, and eventually physics informed learning. 
-</div>
-</div>
-<br>
-<br>
-<br>
-  
-### [ Project 2 ] - [Glacier mapping from optical and SAR satellite imagery using Deep Learning and Random Forests](https://github.com/Machine-Learning-in-Glaciology-Workshop/Glacier-Mapping-with-Deep-Learning) - *Konstantin Maslov and Thomas Schellenberger* 
-<div>
-<div style="float: left; padding: 10px">
-<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/raw/master/assets/imgs/massive_engabreen-norway-elevation-sar-backscatter-and-aerial-imagery-1000px.jpg" width="400">
-</div>
-<div>
-The students will have the possibility to learn how to map glaciers in Svalbard, the Alps and Pakistan from Sentinel-1, Sentinel-2 data and a digital elevation model using fully convolutional neural networks and random forests. They can also test the scalability and transferability of several networks to different regions and years or extend the exercise to map glacier surface types.
+El objetivo de este proyecto será aprender y aplicar diferentes tipos de métodos de aprendizaje automático y regresión estadística (por ejemplo, Lasso/Ridge, Random Forests, Gradient Boosting, redes neuronales...) para simular el balance de masa glaciar (MB) de todos los glaciares de los Andes Peruanos. Utilizaremos el Open Global Glacier Model (OGGM) para recuperar observaciones glaciologicas y geodésicas del MB, y entrenaremos múltiples modelos de aprendizaje automático utilizando datos topográficos y climáticos. Utilizando un conjunto común de pliegues de validación cruzada, compararemos los distintos métodos de aprendizaje automático para comprender sus puntos fuertes y débiles. Además, aprenderemos a añadir restricciones físicas blandas a los modelos. En caso necesario, el proyecto podría ampliarse para incluir también la dinámica de los flujos de hielo y, finalmente, el aprendizaje basado en la física. 
 </div>
 </div>
 <br>
 <br>
 <br>
 
-### [ Project X ] - Bring your own project 
+### [ Proyecto X ] - Traiga su propio proyecto 
 
-Bringing your own project requires planning and an achievable goal for the workshop. In order to do so, we would ask the participant to share a short explanation of the project, its current status and the objectives for the workshop in the application form. Teaming up with other participants for a project is highly recommended, in order to foster interactions and create collaborations. 
+Traer su propio proyecto requiere planificación y un objetivo alcanzable para el taller. Para ello, pedimos al participante que explique brevemente el proyecto, su estado actual y los objetivos del taller en el formulario de solicitud. Se recomienda encarecidamente formar equipo con otros participantes para un proyecto, con el fin de fomentar las interacciones y crear colaboraciones. 

@@ -8,7 +8,8 @@ list_title: Información Práctica
 
 
 ## Solicitud y selección de participantes
-ISi desea participar en el Taller, envíe su solicitud [AQUÍ](https://forms.gle/soELJYoyENhFNjPY7) antes del 20 de agosto de 2024, a las 23:59 UTC. El número de participantes que asistan de forma presencial está limitado a 15. Se informará a los solicitantes sobre la admisión por correo electrónico a principios de septiembre. Si tiene alguna pregunta, no dude en contactarnos en mlglaciology.workshop@gmail.com.
+
+Si desea participar en el Taller, envíe su solicitud [AQUÍ](https://forms.gle/soELJYoyENhFNjPY7) antes del 20 de agosto de 2024, a las 23:59 UTC. El número de participantes que asistan de forma presencial está limitado a 15. Se informará a los solicitantes sobre la admisión por correo electrónico a principios de septiembre. Si tiene alguna pregunta, no dude en contactarnos en cryohydromettools@gmail.com.
 
 ## ¿Quién puede participar?
 
@@ -54,7 +55,7 @@ Los platos típicos se pueden degustar en una variedad de restaurantes y recreos
 
 ## Más información
 
-Puedes encontrar información más detallada sobre el transporte, alojamiento y restaurantes de Huaraz [AQUÍ]().
+Puedes encontrar información más detallada sobre el transporte, alojamiento y restaurantes de Huaraz [AQUÍ](https://github.com/cryohydromettools/TROPIPOLAR-GLASCLIM-Workshop.github.io/blob/main/assets/Workshop_Gu%C3%ADa_V1.pdf).
 
 ## Lista de cosas
 
@@ -72,7 +73,7 @@ Por favor traer:
 - Cualquier medicación personal.
 
 ## Contacto
-Si tiene alguna pregunta, no dude en contactarnos en mlglaciology.workshop@gmail.com.
+Si tiene alguna pregunta, no dude en contactarnos en cryohydromettools@gmail.com.
 
 <!---
 - Consider bringing cross-country skis or snow shoes for the free afternoon (or to get to the Research Station from the train station)

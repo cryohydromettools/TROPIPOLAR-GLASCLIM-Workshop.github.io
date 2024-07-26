@@ -13,11 +13,11 @@ The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.
 
 [ Modelado Climático Regional ] Deniz Bozkurt
 
+[ Eventos Climáticos Extremos y su Impactos ] Claudio Bravo
+
 [ Modelado Glaciológico ] Ruben Basantes
 
-[ Introducción al Aprendizaje Automático ] Jordi Bolibar
-
-[ Ejemplos de Machine Learning aplicados en Glaciología ] 
+[ Aprendizaje Automático aplicados en Glaciología ] Jordi Bolibar
 
 [ Modelado ] Jordi Bolibar - Aprendizaje automático para el modelado de glaciares.
 
@@ -33,7 +33,7 @@ The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.
 
 ## Salida a Campo
 
-Reservamos el sábado todo el dia para visitar un glaciar cercano, localizado en la Cordillera Blanca.Asegúrese de traer ropa y equipo de exterior adecuados para sus actividades preferidas. Puede encontrar una lista de equipaje detallada en la [página de información práctica] (practical_info.md).
+Reservamos el sábado todo el dia para visitar un glaciar cercano, localizado en la Cordillera Blanca.Asegúrese de traer ropa y equipo de exterior adecuados para sus actividades preferidas. Puede encontrar una lista de equipaje detallada en la [página de información práctica](practical_info.md).
 
 <!---
 
