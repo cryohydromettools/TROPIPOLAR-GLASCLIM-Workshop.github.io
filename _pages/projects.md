@@ -6,7 +6,7 @@ title: Proyectos
 
 El objetivo principal de este taller es trabajar en un proyecto con uno de los instructores durante tres días. Hay tres opciones para los participantes: puedes unirte a uno de los dos proyectos preestablecidos, destinados a aprender los fundamentos del modelo físico y del aprendizaje automático aplicado al modelamiento del balance de masa glaciar, o puedes traer tu propio proyecto. 
 
-### [ Proyecto 1 ] - [Modelamiento del balance de masa superficial mediante un modelo físico](https://cryo-tools.org/tools/cosipy/) - *Claudio Bravo y Christian Torres* 
+### [ Proyecto 1 ] - [Modelamiento del balance de masa superficial de los glaciares mediante un modelo físico](https://cryo-tools.org/tools/cosipy/) - *Claudio Bravo y Christian Torres* 
 <div>
 <div style="float: left; padding: 10px">
 <img src="assets/imgs/COSIPY_an.png" width="400">

@@ -64,7 +64,6 @@ Por favor traer:
 - Laptop para trabajo de proyecto (la conexión será libre wifi).
 - Si es necesario, adaptador de viaje para toma de corriente.
 - Zapatos/pantuflas de interior (no se permiten zapatos dentro y el suelo está bastante frío).
-- Best to use a backpack for all your belongings. You need to walk approx. 1.5 km from the train station to the Research Station over a snow-covered dirt road. Roller suitcases do not work
 - Gafas de sol
 - Crema solar
 - Ropa de abrigo, gorro, guantes, bufanda, etc.

@@ -19,8 +19,6 @@ The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.
 
 [ Aprendizaje Automático aplicados en Glaciología ] Jordi Bolibar
 
-[ Modelado ] Jordi Bolibar - Aprendizaje automático para el modelado de glaciares.
-
 [ Software ] Christian Torres - Introducción a Jupyter Hub y Git una introducción sobre cómo usar JupyterHub, los cuadernos de Jupyter y cómo usar Git para proyectos colaborativos.
 
 ## Proyectos

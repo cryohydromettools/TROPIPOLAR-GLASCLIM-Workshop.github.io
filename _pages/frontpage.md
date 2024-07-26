@@ -21,7 +21,7 @@ Si desea participar en el Taller, envíe su solicitud [AQUÍ](https://forms.gle/
 El taller incluirá:
 
 - Conferencias magistrales sobre Modelamiento Climático Regional, Eventos Climáticos Extremos, Modelamiento Glaciológico y la Aplicación del Aprendizaje Automático en la Glaciología (aprox. 2 días).
-- Talleres Prácticos: Los participantes que asistan de forma presencial aprenderán el uso de modelos físicos [COSIPY](https://cryo-tools.org/tools/cosipy/) y el uso del [Aprendizaje Automático]() para el modelamiento glaciológico. Ambos métodos se utilizan para modelar el balance de masa superficial de algunos glaciares de la Cordillera Blanca. También podrán diseñar su propio proyecto a partir de sus propias ideas y datos en colaboración con los instructores y otros participantes en un "hackathon".
+- Talleres Prácticos: Los participantes que asistan de forma presencial aprenderán el uso de modelos físicos [COSIPY](https://cryo-tools.org/tools/cosipy/) y el uso del [Aprendizaje Automático](https://github.com/Machine-Learning-in-Glaciology-Workshop/Project_MB_Regression) para el modelamiento glaciológico. Ambos métodos se utilizan para modelar el balance de masa superficial de algunos glaciares de la Cordillera Blanca. También podrán diseñar su propio proyecto a partir de sus propias ideas y datos en colaboración con los instructores y otros participantes en un "hackathon".
 - Miniconferencia de 2 horas en la que todos los participantes que participen de forma presencial compartan los resultados de sus proyectos.
 - Tarde libre para actividades al aire libre (senderismo, carrera).
 <br>
@@ -44,9 +44,9 @@ Claudio Bravo (Centro de Estudios Científicos, Chile) <br>
 Christian Torres (Universidade Federal do Rio Grande, Brasil) <br>
 
 <br>
-Contacto: cryohydromettools@gmail.com>
-<br>
-Más información sobre los instructores [here](https://machine-learning-in-glaciology-workshop.github.io/instructors). <br>
+Contacto: cryohydromettools@gmail.com
+
+Más información sobre los instructores [here](https://cryohydromettools.github.io/TROPIPOLAR-GLASCLIM-Workshop.github.io/instructors). <br>
 <br>
 
 # Patrocinadores
