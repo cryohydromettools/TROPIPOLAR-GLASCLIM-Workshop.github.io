@@ -46,12 +46,12 @@ Christian Torres (Universidade Federal do Rio Grande, Brasil) <br>
 <br>
 Contacto: cryohydromettools@gmail.com
 
-Más información sobre los instructores [here](https://cryohydromettools.github.io/TROPIPOLAR-GLASCLIM-Workshop.github.io/instructors). <br>
+Más información sobre los instructores [AQUÍ](https://cryohydromettools.github.io/TROPIPOLAR-GLASCLIM-Workshop.github.io/instructors). <br>
 <br>
 
 # Patrocinadores
 
-El Taller está patrocinado por el Proyecto "Tropical to polar glacier mass balance reconstructions and their relationship with climate variability" (TROPIPOLAR-GLASCLIM) del Programa Internacional [CLIMAT-AmSud](https://www.sticmathamsud.org/sitio/).
+El Taller está patrocinado por el Proyecto "Tropical to polar glacier mass balance reconstructions and their relationship with climate variability - TROPIPOLAR-GLASCLIM" del Programa Internacional [CLIMAT-AmSud](https://www.sticmathamsud.org/sitio/).
 
 
 # Instituciones participantes

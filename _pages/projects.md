@@ -12,7 +12,7 @@ El objetivo principal de este taller es trabajar en un proyecto con uno de los i
 <img src="assets/imgs/COSIPY_an.png" width="400">
 </div>
 <div>
-El objetivo de este proyecto será aprender y aplicar un modelo físico glaciológico para simular el balance de masa superficial (BMS) de un glaciar de los Andes peruanos (Cordillera Blanca). Utilizaremos el COupled Snowpack and Ice surface energy and mass balance model in PYthon [(COSIPY)](https://github.com/cryotools/cosipy) para estimar el el BMS. Durante este proyecto utilizaremos información de contorno y topografía del inventario nacional de glaciares para recuperar datos topográficos del glaciar. Además, usaremos datos de reanálisis ERA5 para generar información climática para el glaciar durante 1 año. El modelos se ejecutará en un solo punto y distribuido para ver las diferencias en el BMS del glaciar.
+El objetivo de este proyecto será aprender y aplicar un modelo físico glaciológico para simular el balance de masa superficial (BMS) de un glaciar de los Andes peruanos (Cordillera Blanca). Utilizaremos el COupled Snowpack and Ice surface energy and mass balance model in PYthon - [COSIPY](https://github.com/cryotools/cosipy) para estimar el el BMS. Durante este proyecto utilizaremos información de contorno y topografía del inventario nacional de glaciares para recuperar datos topográficos del glaciar. Además, usaremos datos de reanálisis ERA5 para generar información climática para el glaciar durante 1 año. El modelos se ejecutará en un solo punto y distribuido para ver las diferencias en el BMS del glaciar.
 </div>
 </div>
 <br>
