@@ -4,6 +4,21 @@ layout: page
 title: Instructores
 ---
 
+# [Deniz Bozkurt](https://loop.frontiersin.org/people/650706/overview)
+<div>
+<div style="float: left; padding: 10px">
+<img src="assets/imgs/IMG_4476.jpg" width="200">
+</div>
+<div>
+Deniz es profesor asociado en el Departamento de Meteorología de la Universidad de Valparaíso en Chile. Sus estudios abarcan la dinámica climática, los eventos meteorológicos extremos, la hidroclimatología y las interacciones tierra-atmósfera, utilizando herramientas avanzadas de análisis de datos, modelización y visualización. Con un fuerte énfasis en la modelización del clima regional, investiga cómo el cambio climático y los eventos meteorológicos extremos influyen en diversas regiones, desde el Mediterráneo oriental hasta el oeste de Sudamérica y la Antártica. Actualmente, lidera un proyecto sobre los patrones de bloqueo en la Antártica y el Océano Austral, y sus impactos en los eventos meteorológicos extremos sincronizados en la Antártica y las latitudes medias del hemisferio sur.
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # [Jordi Bolibar](https://jordibolibar.wordpress.com/)
 <div>
 <div style="float: left; padding: 10px">
@@ -19,14 +34,28 @@ Jordi es investigador postdoctoral en el IGE, Université Grenoble Alpes (Franci
 <br>
 <br>
 
-# [Christian Torres](https://orcid.org/0000-0001-5530-2119)
+# [Claudio Bravo](https://loop.frontiersin.org/people/650660/overview)
+<div>
+<div style="float: left; padding: 10px">
+<img src="assets/imgs/20230315_181310.jpg" width="200">
+</div>
+<div>
+Claudio es investigador en el Laboratorio de Glaciología del Centro de Estudios Científicos en Valdivia (Chile). El foco de la investigación de Claudio es entender la respuesta de los glaciares a forzamientos atmosféricos en diversas escalas espaciales y temporales. Para ello usa observaciones meteorológicas, productos climáticos grillados y modelos glaciológicos. Actualmente, lleva adelante un proyecto que busca evaluar el impacto de eventos meteorológicos extremos (como ríos atmosféricos y olas de calor) en el balance de masa de glaciares Andinos.
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# [Christian Torres](http://lattes.cnpq.br/5349545856040202)
 <div>
 <div style="float: left; padding: 10px">
 <img src="assets/imgs/Christian_Torres_profile.jpg" width="200">
 </div>
 <div>
-Christian es investigador posdoctoral en el Laboratorio de Monitoramento da Criosfera del Instituto Oceanográfico de la Universidade Federal do Rio Grande y del Instituto de Nacional de Ciência e Tecnologia da Criosfera (Brasil). Christian se centra en la interacción de los glaciares polares y el clima. Para evaluar el estado pasado y presente de los glaciares, Christian usa modelos glaciológicos físicos.
-
+Christian es investigador Posdoctoral en el Laboratório de Monitoramento da Criosfera del Instituto de Oceanográfico de la Universidade Federal do Rio Grande y del Instituto de Nacional de Ciência e Tecnologia da Criosfera (Brasil). El está interesado en áreas de estudio que se centran en la interacción océano-atmósfera-criósfera, eventos climáticos extremos, ríos atmosféricos, modelos climáticos y teleconexiones entre las regiones Tropical y Polar. Además, Christian posee amplia experiencia en el uso de modelos atmosféricos, glaciológicos, y técnicas de inteligencia artificial para su aplicación en el campo de la glaciología y climatología.
 </div>
 </div>
 <br>

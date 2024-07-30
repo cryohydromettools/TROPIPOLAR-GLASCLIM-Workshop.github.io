@@ -31,7 +31,7 @@ The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.
 
 ## Salida a Campo
 
-Reservamos el sábado todo el dia para visitar un glaciar cercano, localizado en la Cordillera Blanca.Asegúrese de traer ropa y equipo de exterior adecuados para sus actividades preferidas. Puede encontrar una lista de equipaje detallada en la [página de información práctica](practical_info.md).
+Reservamos el sábado todo el dia para visitar un glaciar cercano, localizado en la Cordillera Blanca. Asegúrese de traer ropa y equipo de exterior adecuados para sus actividades preferidas. Puede encontrar una lista de equipaje detallada en la [página de información práctica](practical_info.md).
 
 <!---
 

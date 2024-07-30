@@ -43,7 +43,7 @@ Existen dos formas de transporte desde Lima a Huaraz.
 ### Vuelos
 Hay vuelos diarios desde la Ciudad de Lima a Huaraz (1 hora de viaje). A 20 km al noroeste de Huaraz, se encuentra el Aeropuerto Comandante FAP Germán Arias Graziani, ubicado en Anta (provincia de Carhuaz, Ancash) a 20 minutos en auto de la ciudad de Huaraz. Muchos vuelos internacionales están disponibles hacia Lima.
 
-### Bus 
+### Buses 
 Si prefiere un viaje terrestre, puede optar por un recorrido de 8 horas en bus, que dependiendo de la calidad y comodidad ofrecen servicios VIP y económicos. 
 
 
@@ -63,7 +63,7 @@ Por favor traer:
 
 - Laptop para trabajo de proyecto (la conexión será libre wifi).
 - Si es necesario, adaptador de viaje para toma de corriente.
-- Zapatos/pantuflas de interior (no se permiten zapatos dentro y el suelo está bastante frío).
+- Zapatos.
 - Gafas de sol
 - Crema solar
 - Ropa de abrigo, gorro, guantes, bufanda, etc.
