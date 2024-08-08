@@ -16,8 +16,6 @@ Deniz es profesor asociado en el Departamento de Meteorología de la Universidad
 <br>
 <br>
 <br>
-<br>
-<br>
 
 # [Jordi Bolibar](https://jordibolibar.wordpress.com/)
 <div>
@@ -28,8 +26,6 @@ Deniz es profesor asociado en el Departamento de Meteorología de la Universidad
 Jordi es investigador postdoctoral en el IGE, Université Grenoble Alpes (Francia). La investigación de Jordi se centra en aplicar el Aprendizaje Automático y modelos físicos para modelar, comprender y predecir las interacciones entre el clima y los glaciares a grandes escalas geográficas. Actualmente está trabajando en <a href="https://github.com/ODINN-SciML/ODINN.jl">ODINN</a>, un proyecto donde investiga nuevas formas de aprender las leyes que rigen las interacciones entre el clima y los glaciares utilizando Aprendizaje Automático y ecuaciones diferenciales.
 </div>
 </div>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -46,8 +42,20 @@ Claudio es investigador en el Laboratorio de Glaciología del Centro de Estudios
 <br>
 <br>
 <br>
+
+# [Ruben Basantes](https://www.yachaytech.edu.ec/perfil/ruben-basantes-serrano/)
+<div>
+<div style="float: left; padding: 10px">
+<img src="assets/imgs/Ruben_EC.jpeg" width="200">
+</div>
+<div>
+Ruben es Investigador en la Escuela de Ciencias de la Tierra de la Universidad Yachay Tech (Ecuador). El es glaciólogo con 19 años de experiencia profesional. Sus interés se centra en la comprensión de los efectos del cambio climático en cuencas altoandina, con especial atención a las pérdidas y daños relacionados con la criosfera andina y el riesgo climático. Su trabajo se basa datos de observación de la tierra y el análisis de series temporales mediante sensores remotos. Contribuye como asesor en adaptación al cambio climático para el gobierno ecuatoriano.
+</div>
+</div>
 <br>
 <br>
+<br>
+
 
 # [Christian Torres](http://lattes.cnpq.br/5349545856040202)
 <div>
@@ -58,8 +66,6 @@ Claudio es investigador en el Laboratorio de Glaciología del Centro de Estudios
 Christian es investigador Posdoctoral en el Laboratório de Monitoramento da Criosfera del Instituto de Oceanográfico de la Universidade Federal do Rio Grande y del Instituto de Nacional de Ciência e Tecnologia da Criosfera (Brasil). El está interesado en áreas de estudio que se centran en la interacción océano-atmósfera-criósfera, eventos climáticos extremos, ríos atmosféricos, modelos climáticos y teleconexiones entre las regiones Tropical y Polar. Además, Christian posee amplia experiencia en el uso de modelos atmosféricos, glaciológicos, y técnicas de inteligencia artificial para su aplicación en el campo de la glaciología y climatología.
 </div>
 </div>
-<br>
-<br>
 <br>
 <br>
 <br>
