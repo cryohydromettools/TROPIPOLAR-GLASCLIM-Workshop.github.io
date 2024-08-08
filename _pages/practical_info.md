@@ -4,7 +4,7 @@ layout: page
 title: Información Práctica
 list_title: Información Práctica
 ---
-<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/finse2014_0.jpg?raw=true" width="700">
+<img src="assets/imgs/DISEÑO SHANCYA UNASAM.jpg" width="700">
 
 
 ## Solicitud y selección de participantes
