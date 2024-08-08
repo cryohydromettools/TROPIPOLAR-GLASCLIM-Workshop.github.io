@@ -8,7 +8,9 @@ list_title: Home
 <img src="assets/imgs/TROPIPOLAR-GLASCLIM-CARD1.png" width="750"> <br>
 
 
-El 1er Taller Internacional de Climatología y Glaciología se celebrará del 7 al 12 de Octubre de 2024 en la ciudad de Huaraz, Perú. Esta ciudad es conocida por sus atractivas montañas, glaciares y lagunas, las cuales se encuentran en la [Cordillera Blanca](https://www.peru.travel/es/atractivos/cordillera-blanca). El Taller está dirigido a estudiantes e investigadores de todas las etapas de su carrera que estén interesados en el estudio de la climatología y glaciología usando Modelos Climáticos Regionales (MCRs) y técnicas de Aprendizaje Automático. El taller está diseñado en dos formatos. (1) Durante las mañanas se desarrollarán conferencias magistrales donde se discutirán temas actuales relacionados al modelamiento climático, eventos climáticos extremos, modelamiento glaciológico, técnicas de Aprendizaje Automático aplicado a la glaciología. Este primer formato se desarrollará presencial y virtual (híbrido). (2) Durante las tardes se desarrollarán ejercicios prácticos sobre modelamiento glaciológico usando modelos físicos y técnicas de aprendizaje automático. Este segundo formato se desarrollará apenas con los participantes que asistan de forma presencial. Además, el taller práctico se basa principalmente en proyectos. Puede obtener más información sobre los proyectos en la [página de proyectos](projects.md). Todos los materiales de clases estarán reunidos en un Jupyter Book, que se estará actualizando iterativamente con los comentarios de los participantes. Los participantes también pueden diseñar su propio proyecto basado en sus propias ideas y datos en colaboración con los instructores.
+El 1er Taller Internacional de Climatología y Glaciología se celebrará del 7 al 12 de Octubre de 2024 en la ciudad de Huaraz, Perú. Esta ciudad es conocida por sus atractivas montañas, glaciares y lagunas, las cuales se encuentran en la [Cordillera Blanca](https://www.peru.travel/es/atractivos/cordillera-blanca). El Taller está dirigido a estudiantes e investigadores de todas las etapas de su carrera que estén interesados en la climatología y glaciología. El Taller será híbrido (presencial y virtual) y está diseñado en dos formatos. (1) Conferencias Magistrales y (2) Talleres Prácticos. Las Conferencias Magistrales serán de acceso abierto a todo el público sin límite de cupos y serán transmitidas en vivo por plataformas digitales. Mientras que los Talleres Prácticos estarán limitados a 30 participantes (25 presencial y 5 virtual).
+
+Durante las conferencias Magistrales se discutirán temas actuales relacionados al modelamiento climático regional, eventos climáticos extremos, modelamiento glaciológico, aplicaciones del Aprendizaje Automático en la glaciología y geociencias. Durante los talleres prácticos se enseñarán un modelo físico y técnicas de Aprendizaje Automático para calcular el balance de masa de los glaciares Andinos. Además, los Talleres Prácticos se basa principalmente en proyectos. Puede obtener más información sobre los proyectos en la [página de proyectos](projects.md). Todos los materiales de clases estarán reunidos en un Jupyter Book, que se estará actualizando iterativamente con los comentarios de los participantes. Los participantes también pueden diseñar su propio proyecto basado en sus propias ideas y datos en colaboración con los instructores.
 <br>
 
 # Inscripción
@@ -57,6 +59,8 @@ El Taller está patrocinado por el Proyecto "Tropical to polar glacier mass bala
 # Instituciones participantes
 El Taller cuenta con el apoyo de las siguientes instituciones:
 <br>
+
+<img src="assets/imgs/Logos_TROPIPOLAR-GLASCLIM.jpeg" width="750"> <br>
 
 <!---
 

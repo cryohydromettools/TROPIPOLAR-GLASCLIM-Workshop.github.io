@@ -56,6 +56,44 @@ Ruben es Investigador en la Escuela de Ciencias de la Tierra de la Universidad Y
 <br>
 <br>
 
+# [Edwin Loarte](https://scholar.google.es/citations?user=GBB1VfYAAAAJ&hl=es)
+<div>
+<div style="float: left; padding: 10px">
+<img src="assets/imgs/Edwin_UNASAM.jpeg" width="200">
+</div>
+<div>
+Edwin es investigador y docente en la Facultad de Ciencias del Ambiente de la Universidad Nacional Santiago Antúnez de Mayolo (UNASAM), donde también dirige el Centro de Investigación en Ciencias de la Tierra, Ambiente y Tecnología (ESAT). Su trabajo se centra en la investigación ambiental, con un enfoque en recursos hídricos, glaciología, cambio climático y análisis de riesgos en ámbitos glaciares. Actualmente, lidera el proyecto IAT-Glaciar, que analiza la dinámica glaciar y su relación con el clima utilizando inteligencia artificial y teledetección. El proyecto estudia la variación de glaciares tropicales y antárticos, analiza la variación histórica de la temperatura y establece la relación entre el clima y la dinámica glaciar, aplicando su influencia en la disponibilidad hídrica. 
+</div>
+</div>
+<br>
+<br>
+<br>
+
+# [Katy Damacia](https://orcid.org/0000-0002-2910-6808)
+<div>
+<div style="float: left; padding: 10px">
+<img src="assets/imgs/Katy_UNASAM.JPG" width="200">
+</div>
+<div>
+Katy es investigadora y docente en la Facultad de Ciencias del Ambiente de la Universidad Nacional Santiago Antúnez de Mayolo (UNASAM) e integra el Centro de Investigación en Ciencias de la Tierra, Ambiente y Tecnología (ESAT).   Su trabajo se centra en la comprensión de los impactos del cambio climático en la criósfera y los ecosistemas de alta montaña. Actualmente lidera el proyecto PermaPeru, que estudia las paredes de roca y los glaciares rocosos con la finalidad de modelar la distribución del permafrost y su relación con los movimientos de masa en el Perú para la gestión de riesgos en un contexto de cambio climático.  
+</div>
+</div>
+<br>
+<br>
+<br>
+
+# [Rolando Cruz](https://scholar.google.com/citations?user=cAJcdjYAAAAJ&hl=es)
+<div>
+<div style="float: left; padding: 10px">
+<img src="assets/imgs/Rolando_UNASAM.jpg" width="200">
+</div>
+<div>
+Rolando es egresado de la Facultad de Ciencias del Ambiente (FCAM) y se desempeña como investigador en el Centro de Investigación en Ciencias de la Tierra, Ambiente y Tecnología (ESAT) de la Universidad Nacional Santiago Antúnez de Mayolo (UNASAM). También es especialista en glaciología en la Autoridad Nacional del Agua (ANA), donde se enfoca en el estudio de la criósfera y la gestión de riesgos en entornos glaciares. Actualmente, es candidato a doctor en Recursos Hídricos en la UNALM y participa en proyectos de investigación sobre glaciares, ecosistemas de montaña y cambio climático en los Andes Peruanos y la Antártida.  
+</div>
+</div>
+<br>
+<br>
+<br>
 
 # [Christian Torres](http://lattes.cnpq.br/5349545856040202)
 <div>
