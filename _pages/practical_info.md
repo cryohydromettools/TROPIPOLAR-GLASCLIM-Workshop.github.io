@@ -9,7 +9,7 @@ list_title: Información Práctica
 
 ## Solicitud y selección de participantes
 
-Si desea participar en el Taller, envíe su solicitud [AQUÍ](https://forms.gle/soELJYoyENhFNjPY7) antes del 20 de agosto de 2024, a las 23:59 UTC. El número de participantes que asistan de forma presencial está limitado a 15. Se informará a los solicitantes sobre la admisión por correo electrónico a principios de septiembre. Si tiene alguna pregunta, no dude en contactarnos en cryohydromettools@gmail.com.
+Si desea participar en el Taller, envíe su solicitud [AQUÍ](https://forms.gle/soELJYoyENhFNjPY7) antes del 31 de agosto de 2024, a las 23:59 UTC. El número de participantes en los Talleres Prácticos está limitado a 30 participantes. Se informará a los solicitantes sobre la admisión por correo electrónico a quincena de septiembre de septiembre. Si tiene alguna pregunta, no dude en contactarnos en cryohydromettools@gmail.com.
 
 ## ¿Quién puede participar?
 
@@ -29,7 +29,7 @@ Accepted participants must pay a non-refundable registration fee of 400 NOK late
 
 ## Entorno informático
 
-Para aplicaciones basadas en CPU (es decir, modelado usando Aprendizaje Automático), habrá un JupyterHub disponible en [CryoCloud](https://cryointhecloud.com) con todos los datos y dependencias ya preinstalados.
+Para aplicaciones basadas en CPU (es decir, modelado usando COSIPY y Aprendizaje Automático), habrá un JupyterHub disponible en [CryoCloud](https://cryointhecloud.com) con todos los datos y dependencias ya preinstalados.
 
 ## Ubicación
 El Taller se llevará a cabo en el Auditorio de la Facultad de Ciencias del Ambiente (Pabellón “J”) de la Ciudad Universitaria perteneciente a la Universidad Nacional Santiago Antúnez de Mayolo (UNASAM). La Ciudad Universitaria de la UNASAM se encuentra ubicada en la Av. Universitaria (Barrio de Shancayan) - Independencia - Huaraz - Ancash -Perú. Para un ingreso directo al Auditorio, se recomienda optar por la puerta N°3. 
@@ -47,7 +47,7 @@ Hay vuelos diarios desde la Ciudad de Lima a Huaraz (1 hora de viaje). A 20 km a
 Si prefiere un viaje terrestre, puede optar por un recorrido de 8 horas en bus, que dependiendo de la calidad y comodidad ofrecen servicios VIP y económicos. 
 
 
-## Alojamiento / Comidas
+## Alojamiento/Comidas
 Existen muchas opciones de hospedaje en Huaraz. Al buscar opciones en google maps y otros medios online, se sugiere tener en cuenta la ubicación del hospedaje, así como los comentarios y/o calificaciones de otros visitantes.  
  
 

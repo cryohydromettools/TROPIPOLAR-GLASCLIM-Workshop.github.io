@@ -15,11 +15,10 @@ The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.
 
 [ Eventos Climáticos Extremos y su Impactos ] Claudio Bravo
 
-[ Modelado Glaciológico ] Ruben Basantes
-
 [ Aprendizaje Automático aplicados en Glaciología ] Jordi Bolibar
 
-[ Software ] Christian Torres - Introducción a Jupyter Hub y Git una introducción sobre cómo usar JupyterHub, los cuadernos de Jupyter y cómo usar Git para proyectos colaborativos.
+[ Monitoreo Glaciológico  ] Ruben Basantes
+
 
 ## Proyectos
 
@@ -31,7 +30,7 @@ The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.
 
 ## Salida a Campo
 
-Reservamos el sábado todo el dia para visitar un glaciar cercano, localizado en la Cordillera Blanca. Asegúrese de traer ropa y equipo de exterior adecuados para sus actividades preferidas. Puede encontrar una lista de equipaje detallada en la [página de información práctica](practical_info.md).
+Reservamos el sábado todo el día para visitar un glaciar Pastoruri, localizado en la Cordillera Blanca. Durante esta salida los participantes aprenderán a capturar imágenes del glaciar con Drone. Los participantes que quieran participar de esta actividad deberán pagar el transporte de unos S/. 60 soles (aprox. $15-20 USD).  Asegúrese de traer ropa y equipo de exterior adecuados para sus actividades preferidas. Puede encontrar una lista de equipaje detallada en la [página de información práctica](practical_info.md).
 
 <!---
 
