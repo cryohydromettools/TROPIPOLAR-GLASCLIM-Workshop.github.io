@@ -4,7 +4,7 @@ layout: page
 title: Programa
 ---
 
-El calendario preliminar del taller de 2024 se puede descargar [AQUÍ](https://github.com/cryohydromettools/TROPIPOLAR-GLASCLIM-Workshop.github.io/blob/main/assets/Programa_workshop_TROPILOAR-GLASCLIM.pdf).
+El calendario preliminar del taller de 2024 se puede descargar [AQUÍ](https://docs.google.com/document/d/1owIQdpIWoWyK16-B0wkb1bZvW_InW5KP5qqXeVY_kRk/edit?usp=sharing).
 <!---
 The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.githubusercontent.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/master/assets/MLinGLACIOLOGY2023_schedule_v20230413.pdf)
 -->
@@ -18,6 +18,10 @@ The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.
 [ Aprendizaje Automático aplicados en Glaciología ] Jordi Bolibar
 
 [ Monitoreo Glaciológico  ] Ruben Basantes
+
+[ Imágenes de RADAR para el monitoreo glaciar ] Jorge Arigony-Neto
+
+[ Ríos Atmosféricos en Regiones Polares ] Vincent Favier
 
 
 ## Proyectos
