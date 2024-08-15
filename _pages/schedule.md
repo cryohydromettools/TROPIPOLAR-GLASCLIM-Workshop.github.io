@@ -4,7 +4,7 @@ layout: page
 title: Programa
 ---
 
-El calendario preliminar del taller de 2024 se puede descargar [AQUÍ](https://docs.google.com/document/d/1owIQdpIWoWyK16-B0wkb1bZvW_InW5KP5qqXeVY_kRk/edit?usp=sharing).
+El calendario preliminar del taller de 2024 se encuentra [AQUÍ](https://docs.google.com/document/d/1owIQdpIWoWyK16-B0wkb1bZvW_InW5KP5qqXeVY_kRk/edit?usp=sharing).
 <!---
 The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.githubusercontent.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/master/assets/MLinGLACIOLOGY2023_schedule_v20230413.pdf)
 -->
@@ -34,7 +34,7 @@ The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.
 
 ## Salida a Campo
 
-Reservamos el sábado todo el día para visitar un glaciar Pastoruri, localizado en la Cordillera Blanca. Durante esta salida los participantes aprenderán a capturar imágenes del glaciar con Drone. Los participantes que quieran participar de esta actividad deberán pagar el transporte de unos S/. 60 soles (aprox. $15-20 USD).  Asegúrese de traer ropa y equipo de exterior adecuados para sus actividades preferidas. Puede encontrar una lista de equipaje detallada en la [página de información práctica](practical_info.md).
+Reservamos el sábado todo el día para visitar el glaciar Pastoruri, localizado en la Cordillera Blanca. Durante esta salida los participantes aprenderán a capturar imágenes del glaciar con Drone. Los participantes que quieran participar de esta actividad deberán pagar el transporte de unos S/. 60 soles (aprox. $15-20 USD).  Asegúrese de traer ropa y equipo de exterior adecuados para sus actividades preferidas. Puede encontrar una lista de equipaje detallada en la [página de información práctica](practical_info.md).
 
 <!---
 

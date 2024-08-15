@@ -3,6 +3,18 @@ permalink: /instructors
 layout: page
 title: Instructores
 ---
+# [Jorge Arigony-Neto](https://www.researchgate.net/profile/Jorge-Arigony-Neto)
+<div>
+<div style="float: left; padding: 10px">
+<img src="assets/imgs/Jorge_BR.jpeg" width="200">
+</div>
+<div>
+Jorge es Profesor Asociado del Instituto de Oceanografía de la Universidad Federal de Río Grande (FURG), donde coordina el Laboratorio de Vigilancia de la Criosfera del Instituto Nacional de Ciencia y Tecnología (INCT) de la Criosfera. Fui Investigador Principal y Co-Investigador en proyectos para la Agencia Espacial Europea (ESA), el Centro Aeroespacial Alemán (DLR) y la Agencia Espacial Italiana (ASI), y en la coordinación del Centro Regional para la Península Antártica en el proyecto internacional Global Land Ice Measurements from Space (GLIMS). También ha llevado a cabo diversos proyectos de investigación, cooperación internacional y docencia financiados por CNPq, CAPES, FAPERGS, BRICS y la Fundación Europea de la Ciencia, y recibió el Premio de Investigación Google América Latina en 2016, 2017 y 2018 por el desarrollo de estaciones autónomas de bajo coste para monitorizar el impacto del cambio climático en los glaciares.
+</div>
+</div>
+<br>
+<br>
+<br>
 
 # [Deniz Bozkurt](https://www.researchgate.net/profile/Deniz-Bozkurt)
 <div>
@@ -23,7 +35,7 @@ Deniz es profesor asociado en el Departamento de Meteorología de la Universidad
 <img src="assets/imgs/Photo_V_Favier.jpg" width="200">
 </div>
 <div>
-Favier Vincent es profesor en la Université Grenoble Alpes (Francia) y miembro del Instituto de Geociencias del Medio Ambiente (IGE) de Grenoble. Su trabajo se centra en la medición y el modelado regional del balance de masa y energía de la superficie Antártica. Su trabajo ha ayudado a demostrar el papel crucial de los ríos atmosféricos en las precipitaciones extremas y el deshielo en la Antártida.
+Vincent es profesor en la Université Grenoble Alpes (Francia) y miembro del Instituto de Geociencias del Medio Ambiente (IGE) de Grenoble. Su trabajo se centra en la medición y el modelado regional del balance de masa y energía de la superficie Antártica. Su trabajo ha ayudado a demostrar el papel crucial de los ríos atmosféricos en las precipitaciones extremas y el deshielo en la Antártida.
 </div>
 </div>
 <br>
@@ -56,7 +68,7 @@ Gabriela es investigadora postdoctoral en el IGE, Université Grenoble Alpes (Fr
 <br>
 <br>
 
-# [Claudio Bravo](https://loop.frontiersin.org/people/650660/overview)
+# [Claudio Bravo](https://www.researchgate.net/profile/Claudio-Bravo-8)
 <div>
 <div style="float: left; padding: 10px">
 <img src="assets/imgs/20230315_181310.jpg" width="200">
