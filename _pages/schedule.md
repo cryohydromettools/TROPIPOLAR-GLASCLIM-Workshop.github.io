@@ -17,16 +17,16 @@ The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.
 
 [ Aprendizaje Automático aplicados en Glaciología ] Jordi Bolibar
 
-[ Monitoreo Glaciológico  ] Ruben Basantes
+[ Monitoreo Glaciológico  ] Ruben Basantes y Edwin Loarte
 
 [ Imágenes de RADAR para el monitoreo glaciar ] Jorge Arigony-Neto
 
-[ Ríos Atmosféricos en Regiones Polares ] Vincent Favier
+[ Ríos Atmosféricos en Climas Polares ] Vincent Favier
 
 
 ## Proyectos
 
-[ COSIPY ] Modelamiento del balance de masa usando con un modelo físico.
+[ COSIPY ] Modelamiento del balance de masa usando un modelo físico.
  
 [ Aprendizaje Automático ] Modelamiento del balance de masa usando Aprendizaje Automático.
 
@@ -34,7 +34,7 @@ The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.
 
 ## Salida a Campo
 
-Reservamos el sábado todo el día para visitar el glaciar Pastoruri, localizado en la Cordillera Blanca. Durante esta salida los participantes aprenderán a capturar imágenes del glaciar con Drone. Los participantes que quieran participar de esta actividad deberán pagar el transporte de unos S/. 60 soles (aprox. $15-20 USD).  Asegúrese de traer ropa y equipo de exterior adecuados para sus actividades preferidas. Puede encontrar una lista de equipaje detallada en la [página de información práctica](practical_info.md).
+Reservamos el sábado todo el día para visitar el glaciar Pastoruri, localizado en la Cordillera Blanca. Durante esta salida los participantes aprenderán a capturar imágenes del glaciar con Drone. Los participantes que quieran participar de esta actividad deberán pagar el transporte de unos S/. 60 soles (aprox. $15-20 USD).  Asegúrese de traer ropa adecuada para la salida a campo. Puede encontrar una lista de equipaje detallada en la [página de información práctica](practical_info.md).
 
 <!---
 

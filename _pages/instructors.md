@@ -9,7 +9,7 @@ title: Instructores
 <img src="assets/imgs/Jorge_BR.jpeg" width="200">
 </div>
 <div>
-Jorge es Profesor Asociado del Instituto de Oceanografía de la Universidad Federal de Río Grande (FURG), donde coordina el Laboratório de Monitoramento da Criosfera (LaCrio) del Instituto Nacional de Ciencia y Tecnología (INCT) de la Criosfera, Brasil. Fui Investigador Principal y Co-Investigador en proyectos para la Agencia Espacial Europea (ESA), el Centro Aeroespacial Alemán (DLR) y la Agencia Espacial Italiana (ASI), y en la coordinación del Centro Regional para la Península Antártica en el proyecto internacional Global Land Ice Measurements from Space (GLIMS). También ha llevado a cabo diversos proyectos de investigación, cooperación internacional y docencia financiados por CNPq, CAPES, FAPERGS, BRICS y la Fundación Europea de la Ciencia, y recibió el Premio de Investigación Google América Latina en 2016, 2017 y 2018 por el desarrollo de estaciones autónomas de bajo coste para monitorizar el impacto del cambio climático en los glaciares.
+Jorge es profesor asociado del Instituto de Oceanografía de la Universidade Federal do Río Grande (FURG), donde coordina el Laboratório de Monitoramento da Criosfera (LaCrio) del Instituto de Nacional de Ciência e Tecnologia da Criosfera (Brasil). Fui Investigador Principal y Co-Investigador en proyectos para la Agencia Espacial Europea (ESA), el Centro Aeroespacial Alemán (DLR) y la Agencia Espacial Italiana (ASI), y en la coordinación del Centro Regional para la Península Antártica en el proyecto internacional Global Land Ice Measurements from Space (GLIMS). También ha llevado a cabo diversos proyectos de investigación, cooperación internacional y docencia financiados por CNPq, CAPES, FAPERGS, BRICS y la Fundación Europea de la Ciencia, y recibió el Premio de Investigación Google América Latina en 2016, 2017 y 2018 por el desarrollo de estaciones autónomas de bajo coste para monitorizar el impacto del cambio climático en los glaciares.
 </div>
 </div>
 <br>
@@ -35,7 +35,7 @@ Deniz es profesor asociado en el Departamento de Meteorología de la Universidad
 <img src="assets/imgs/Photo_V_Favier.jpg" width="200">
 </div>
 <div>
-Vincent es profesor en la Université Grenoble Alpes (Francia) y miembro del Instituto de Geociencias del Medio Ambiente (IGE) de Grenoble. Su trabajo se centra en la medición y el modelado regional del balance de masa y energía de la superficie Antártica. Su trabajo ha ayudado a demostrar el papel crucial de los ríos atmosféricos en las precipitaciones extremas y el deshielo en la Antártida.
+Vincent es profesor permanente en la Université Grenoble Alpes (Francia) y miembro del Instituto de Geociencias del Medio Ambiente (IGE) de Grenoble. Su trabajo se centra en la medición y el modelado regional del balance de masa y energía de la superficie Antártica. Su trabajo ha ayudado a demostrar el papel crucial de los ríos atmosféricos en las precipitaciones extremas y el deshielo en la Antártida.
 </div>
 </div>
 <br>
@@ -139,7 +139,7 @@ Rolando es egresado de la Facultad de Ciencias del Ambiente (FCAM) y se desempe�
 <img src="assets/imgs/Christian_Torres_profile.jpg" width="200">
 </div>
 <div>
-Christian es investigador Posdoctoral en el Laboratório de Monitoramento da Criosfera del Instituto de Oceanográfico de la Universidade Federal do Rio Grande y del Instituto de Nacional de Ciência e Tecnologia da Criosfera (Brasil). El está interesado en áreas de estudio que se centran en la interacción océano-atmósfera-criósfera, eventos climáticos extremos, ríos atmosféricos, modelos climáticos y teleconexiones entre las regiones Tropical y Polar. Además, Christian posee amplia experiencia en el uso de modelos atmosféricos, glaciológicos, y técnicas de inteligencia artificial para su aplicación en el campo de la glaciología y climatología.
+Christian es investigador posdoctoral en el Laboratório de Monitoramento da Criosfera del Instituto de Oceanografía de la Universidade Federal do Rio Grande y del Instituto de Nacional de Ciência e Tecnologia da Criosfera (Brasil). Sus áreas de estudio se centran en la interacción océano-atmósfera-criósfera, eventos climáticos extremos, ríos atmosféricos, modelado climático regional y teleconexiones entre las regiones Tropical y Polar. Además, Christian posee amplia experiencia en el uso de modelos atmosféricos, glaciológicos, y técnicas de inteligencia artificial para su aplicación en el campo de la glaciología y climatología.
 </div>
 </div>
 <br>

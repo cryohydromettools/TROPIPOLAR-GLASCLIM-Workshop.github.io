@@ -21,7 +21,7 @@ We received 67 applications and selected 27 participants.
 
 ## Costos
 
-El Taller está financiado con el Proyecto Internacional TROPIPOLAR-GLASCLIM del programa CLIMAT-AmSud. Sin embargo, los participantes que atiendan presencialmente deben cubrir su propio viaje, alojamiento y alimentación. Es posible que tengamos 4 o 5 becas de viaje parciales disponibles en espera de apoyo externo (lo sabremos en agosto).
+El Taller está financiado con el Proyecto Internacional TROPIPOLAR-GLASCLIM del programa CLIMAT-AmSud. Sin embargo, los participantes que atiendan presencialmente deben cubrir su propio viaje, alojamiento y alimentación. Es posible que tengamos 4 o 5 becas de viaje parciales disponibles en espera de apoyo externo (lo sabremos finales de agosto).
 
 <!---
 Accepted participants must pay a non-refundable registration fee of 400 NOK latest in February 2023. The rest of the fee of 9600 must be paid latest by 29 March 2023. Refund policy for cancellations: 100% of the total fee until 29 March 2023 24:00 (CET).
