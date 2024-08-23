@@ -55,6 +55,19 @@ Jordi es investigador postdoctoral en el IGE, Université Grenoble Alpes (Franci
 <br>
 <br>
 
+# [Facundo Sapienza](https://statistics.berkeley.edu/people/facu-sapienza)
+<div>
+<div style="float: left; padding: 10px">
+<img src="https://avatars.githubusercontent.com/u/39526081?v=4" width="200">
+</div>
+<div>
+Facundo (Facu) Sapienza es candidato a doctorado en el Departamento de Estadística de la Universidad de California, Berkeley. El trabajo de Facu incluye el uso de ecuaciones diferenciales neuronales en el modelado del flujo de hielo, donde las subpartes de la ecuación diferencial gobernante pueden ser parametrizadas por proxies informados físicamente; algoritmos de detección de características en capas de hielo usando datos de teledetección; y métodos de aprendizaje automático aplicados al paleomagnetismo y las ciencias planetarias. También está interesado en el desarrollo y la comunicación de herramientas de código abierto para computación científica.
+</div>
+</div>
+<br>
+<br>
+<br>
+
 # [Gabriela Collao](https://www.researchgate.net/profile/Gabi-Collao-Barrios)
 <div>
 <div style="float: left; padding: 10px">
@@ -140,6 +153,19 @@ Rolando es egresado de la Facultad de Ciencias del Ambiente (FCAM) y se desempe�
 </div>
 <div>
 Christian es investigador posdoctoral en el Laboratório de Monitoramento da Criosfera del Instituto de Oceanografía de la Universidade Federal do Rio Grande y del Instituto de Nacional de Ciência e Tecnologia da Criosfera (Brasil). Sus áreas de estudio se centran en la interacción océano-atmósfera-criósfera, eventos climáticos extremos, ríos atmosféricos, modelado climático regional y teleconexiones entre las regiones Tropical y Polar. Además, Christian posee amplia experiencia en el uso de modelos atmosféricos, glaciológicos, y técnicas de inteligencia artificial para su aplicación en el campo de la glaciología y climatología.
+</div>
+</div>
+<br>
+<br>
+<br>
+
+# [Eduardo Villavicencio](https://orcid.org/0000-0002-9739-8451)
+<div>
+<div style="float: left; padding: 10px">
+<img src="assets/imgs/Eduardo_FURG.jpeg" width="200">
+</div>
+<div>
+Eduardo es investigador doctoral  en Oceanografía Física, y Magíster en Recursos Hídricos, tiene una amplia experiencia en modelación climática y análisis de datos geoespaciales. Su trabajo incluye el uso de machine learning en el proyecto PERMAFROST sobre permafrost en los Andes peruanos, financiado por el Banco Mundial. Actualmente, Aplica inteligencia artificial para determinar frentes glaciares en la Antártida, contribuyendo al monitoreo de cambios en la criósfera. Su experiencia abarca el manejo de herramientas como Python, R, Google Colab y Google Earth Engine, y ha trabajado en la evaluación hidrológica e inventario de glaciares en colaboración con el INAIGEM.
 </div>
 </div>
 <br>
