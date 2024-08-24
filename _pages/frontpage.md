@@ -38,12 +38,14 @@ Jorge Arigony-Neto (Universidade Federal do Rio Grande, Brasil) <br>
 Deniz Bozkurt (Universidad de Valparaíso, Chile) <br>
 Edwin Anibal Loarte Cadenas (Universidad Nacional Santiago Antúnez de Mayolo, Perú) <br>
 Alvaro Soruco (Universidad Mayor de San Andrés, Bolivia) <br>
-Vincent Favier (Université Grenoble Alpes, Francia) <br>
+Favier Vincent (Université Grenoble Alpes, Francia) <br>
 
-Ruben Basantes (Universidad Yachay Tech, Ecuador) <br>
 Jordi Bolibar (Université Grenoble Alpes, Francia) <br>
+Facundo Sapienza (UC Berkeley) <br>
+Ruben Basantes (Universidad Yachay Tech, Ecuador) <br>
 Claudio Bravo (Centro de Estudios Científicos, Chile) <br>
 Christian Torres (Universidade Federal do Rio Grande, Brasil) <br>
+Eduardo Villavicencio (Universidade Federal do Rio Grande, Brasil) <br>
 Katy Damacia Medina Marcos (Universidad Nacional Santiago Antúnez de Mayolo, Perú) <br>
 Edwin Julio Palomino Cadenas (Universidad Nacional Santiago Antúnez de Mayolo, Perú) <br>
 Rolando Cesai Cruz Encarnación (Universidad Nacional Santiago Antúnez de Mayolo, Perú) <br>
@@ -69,7 +71,7 @@ El Taller está patrocinado por el Proyecto "Tropical to polar glacier mass bala
 El Taller cuenta con el apoyo de las siguientes instituciones:
 <br>
 
-<img src="assets/imgs/Logos_TROPIPOLAR-GLASCLIM.jpeg" width="750"> <br>
+<img src="assets/imgs/Workshop-Huaraz_Logos_V2.png" width="750"> <br>
 
 <!---
 
