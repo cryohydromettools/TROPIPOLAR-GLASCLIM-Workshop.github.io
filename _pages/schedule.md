@@ -34,7 +34,9 @@ The detailed schedule for the 2023 edition can be downloaded [HERE](https://raw.
 
 ## Salida a Campo
 
-Reservamos el sábado todo el día para visitar el glaciar Pastoruri, localizado en la Cordillera Blanca. Durante esta salida los participantes aprenderán a capturar imágenes del glaciar con Drone. Los participantes que quieran participar de esta actividad deberán pagar el transporte de unos S/. 60 soles (aprox. $15-20 USD).  Asegúrese de traer ropa adecuada para la salida a campo. Puede encontrar una lista de equipaje detallada en la [página de información práctica](practical_info.md).
+Reservamos el sábado todo el día para visitar el Glaciar Llaca, localizado en la Cordillera Blanca. Durante esta salida los participantes aprenderán varias técnicas de monitoreo glaciológico, hidrológico y ecosistema, así como captura de imágenes con Drone. Los participantes que quieran participar de esta actividad deberán pagar el un valor de S/. 60 soles (aprox. $15-20 USD), que incluye el transporte y comida cerca de un refugio. Encuentre el cronograma con las actividades [AQUÍ](https://docs.google.com/spreadsheets/d/1bSeYMz_DF7RqyhIa9Q1DCr1omYjGGuUYkKd9TFMDkFI/edit?usp=sharing). Además, en el mapa muestra las zonas donde se desarrollarán cada actividad. Además, encuentre el mapa en [google earth](LLACA_2024.kmz) donde se muestran las zonas donde se desarrollarán cada actividad.
+
+Importante!! Asegúrese de traer ropa adecuada para la salida a campo. Puede encontrar una lista de equipaje detallada en la [página de información práctica](practical_info.md).
 
 <!---
 
