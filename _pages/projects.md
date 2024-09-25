@@ -6,7 +6,7 @@ title: Proyectos
 
 El objetivo principal de este taller es trabajar en un proyecto con uno de los instructores durante tres días. Hay tres opciones para los participantes: puedes unirte a uno de los dos proyectos preestablecidos, destinados a aprender los fundamentos del modelo físico y del aprendizaje automático aplicado al modelamiento del balance de masa glaciar, o puedes traer tu propio proyecto. 
 
-### [ Proyecto 1 ] - [Modelamiento del balance de masa superficial glaciar mediante un modelo físico](https://cryo-tools.org/tools/cosipy/) - *Christian Torres y Claudio Bravo* 
+### [ Proyecto 1 ] - [Modelamiento del balance de masa superficial glaciar mediante un modelo físico](https://github.com/cryohydromettools/Proyecto_MB_COSIPY) - *Christian Torres y Claudio Bravo* 
 <div>
 <div style="float: left; padding: 10px">
 <img src="assets/imgs/COSIPY_an.png" width="400">
@@ -19,7 +19,7 @@ El objetivo de este proyecto será aprender y aplicar un modelo físico glaciol�
 <br>
 <br>
 
-### [ Proyecto 2 ] - [Modelamiento del balance de masa glaciar mediante Aprendizaje Automático](https://github.com/Machine-Learning-in-Glaciology-Workshop/Project_MB_Regression) - *Facundo Sapienza, Jordi Bolibar, Eduardo Villavicencio*
+### [ Proyecto 2 ] - [Modelamiento del balance de masa glaciar mediante Aprendizaje Automático](https://github.com/cryohydromettools/Proyecto_MB_Regresion) - *Facundo Sapienza, Jordi Bolibar, Eduardo Villavicencio*
 <div>
 <div style="float: left; padding: 10px">
 <img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/raw/master/assets/imgs/glacier_AI_lq.png" width="400">
