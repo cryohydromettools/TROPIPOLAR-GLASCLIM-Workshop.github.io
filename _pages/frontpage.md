@@ -5,29 +5,65 @@ title: Bienvenido
 list_title: Home
 ---
 
+
+<img src="assets/imgs/3er_Taller_TROPIPOLAR-GLASCLIM.png" width="750"> <br>
+
+El **3er Taller Híbrido de Glaciología** se celebrará del **1 al 5 de septiembre de 2025** en la ciudad de **Grenoble, Francia**.  
+
+
+El Taller estará dirigido principalmente a los colaboradores del proyecto *TROPIPOLAR-GLASCLIM*. No obstante, el **miércoles 3 de septiembre** será de acceso abierto al público en general interesado en conocer presentaciones y avances de investigación sobre glaciares, desde los **tropicales** hasta los **polares**.  
+
+
+El evento será híbrido (presencial y virtual) y se desarrollará en tres formatos:  
+
+
+1. **Talleres Prácticos** (lunes 1 y martes 2 de septiembre)  
+2. **Presentaciones** (miércoles 3 de septiembre)  
+3. **Discusión Grupal** (jueves 4 de septiembre)  
+
+
+Durante las **Presentaciones** se abordarán temas actuales relacionados con el **estudio de los glaciares tropicales, patagónicos y polares**, la **hidrología glaciar** y el **impacto de los eventos extremos en los glaciares**.  
+
+<br>
+
+
 <img src="assets/imgs/TROPIPOLAR-GLASCLIM-CARD1.png" width="750"> <br>
 
+El **1er Taller Internacional de Climatología y Glaciología** se celebró del **7 al 12 de octubre de 2024** en la ciudad de **Huaraz, Perú**. Esta ciudad es conocida por sus atractivas montañas, glaciares y lagunas, las cuales se encuentran en la [Cordillera Blanca](https://www.peru.travel/es/atractivos/cordillera-blanca).  
 
-El 1er Taller Internacional de Climatología y Glaciología se celebrará del 7 al 12 de Octubre de 2024 en la ciudad de Huaraz, Perú. Esta ciudad es conocida por sus atractivas montañas, glaciares y lagunas, las cuales se encuentran en la [Cordillera Blanca](https://www.peru.travel/es/atractivos/cordillera-blanca). El Taller está dirigido a estudiantes e investigadores de todas las etapas de su carrera que estén interesados en la climatología y glaciología. El Taller será híbrido (presencial y virtual) y está diseñado en dos formatos: (1) Conferencias Magistrales (lunes 7 y martes 8 de octubre) y (2) Talleres Prácticos (miércoles 9, jueves 10 y viernes 11 de octubre). Las Conferencias Magistrales serán de acceso abierto a todo el público sin límite de participantes y serán transmitidas en vivo por plataformas digitales. Mientras que los Talleres Prácticos estarán limitados a 30 participantes (25 presencial y 5 virtual).
+El Taller estuvo dirigido a estudiantes e investigadores de todas las etapas de su carrera que estuvieran interesados en la climatología y glaciología. El evento fue híbrido (presencial y virtual) y se desarrolló en dos formatos:  
 
-Durante las conferencias Magistrales se discutirán temas actuales relacionados al modelamiento climático regional, eventos climáticos extremos, modelamiento glaciológico, aplicaciones del Aprendizaje Automático en la glaciología y geociencias. Durante los talleres prácticos se enseñarán un modelo físico y técnicas de Aprendizaje Automático para calcular el balance de masa de los glaciares Andinos. Además, los Talleres Prácticos se basa principalmente en proyectos. Puede obtener más información sobre los proyectos en la [página de proyectos](projects.md). Todos los materiales de clases estarán reunidos en un Jupyter Book, que se estará actualizando iterativamente con los comentarios de los participantes. Los participantes también pueden diseñar su propio proyecto basado en sus propias ideas y datos en colaboración con los instructores.
+1. **Conferencias Magistrales** (lunes 7 y martes 8 de octubre)  
+2. **Talleres Prácticos** (miércoles 9, jueves 10 y viernes 11 de octubre)  
+
+Las Conferencias Magistrales fueron de acceso abierto a todo el público sin límite de participantes y se transmitieron en vivo por plataformas digitales. Por su parte, los Talleres Prácticos estuvieron limitados a **30 participantes** (25 presenciales y 5 virtuales).  
+
+Durante las **Conferencias Magistrales** se discutieron temas actuales relacionados con el **modelamiento climático regional**, **eventos climáticos extremos**, **modelamiento glaciológico**, y aplicaciones del **Aprendizaje Automático** en la glaciología y las geociencias.  
+
+En los **Talleres Prácticos** se enseñó un modelo físico y técnicas de Aprendizaje Automático para calcular el balance de masa de los glaciares andinos. Además, los talleres se basaron principalmente en proyectos. Se pudo obtener más información sobre los proyectos en la [página de proyectos](projects.md).  
+
+Todos los materiales de clase quedaron reunidos en un **Jupyter Book**, el cual se actualizó iterativamente con los comentarios de los participantes. Estos también tuvieron la posibilidad de diseñar su propio proyecto, basado en sus propias ideas y datos, en colaboración con los instructores.  
+
 <br>
 
 # Inscripción
 
-Si desea participar en el Taller, envíe su solicitud [AQUÍ](https://forms.gle/soELJYoyENhFNjPY7) antes del 31 de agosto de 2024, a las 23:59 UTC. El número de participantes en los Talleres Prácticos está limitado a 30 participantes. Los solicitantes serán informados sobre su admisión por correo electrónico a quincena de septiembre. Si tiene alguna pregunta, no dude en ponerse en contacto con nosotros en cryohydromettools@gmail.com. 
+Si está interesado en participar en las **presentaciones del Taller** del día **miércoles 3 de septiembre**, envíe su solicitud [AQUÍ](https://forms.gle/Xqv4CKBumWVxW2fM7) antes del **2 de septiembre de 2025, a las 23:59 UTC**.  
+
+Para cualquier consulta, no dude en ponerse en contacto con nosotros en **cryohydromettools@gmail.com**.  
+ 
 <br>
 
 # Agenda
 
 El taller incluirá:
 
-- Conferencias Magistrales: Modelamiento Climático Regional, Eventos Climáticos Extremos, Modelamiento Glaciológico y Aplicación del Aprendizaje Automático en la Glaciología (lunes 7 y martes 8 de octubre).
-- Talleres Prácticos: Los participantes aprenderán el uso de un modelo físico [COSIPY](https://cryo-tools.org/tools/cosipy/) y el uso del [Aprendizaje Automático](https://github.com/Machine-Learning-in-Glaciology-Workshop/Project_MB_Regression) para el modelamiento glaciologico. Ambos métodos se utilizan para modelar el balance de masa superficial de los glaciares andinos. También podrán diseñar su propio proyecto a partir de sus propias ideas y datos en colaboración con los instructores y otros participantes en un "hackathon" (miércoles 9, jueves 10 y viernes 11 de octubre).
-- Miniconferencia de 2 horas en la que todos los participantes de los talleres prácticos  compartan los resultados de sus proyectos.
-- Salida al glaciar Pastoruri para recolectar imágenes con Drone (sábado 12 de octubre).
+- **Talleres Prácticos**: Los participantes trabajarán con el modelo [MassBalanceMachine](https://github.com/ODINN-SciML/MassBalanceMachine) para simular el **balance de masa superficial** de los glaciares andinos. Cada grupo, dividido por región (**Tropical**, **Chile Central y Patagonia**, y **Península Antártica**), organizará sus propios datos, entrenará el modelo y desarrollará una reconstrucción espacial del balance de masa glaciar.  
+
+- **Presentaciones**: Exposiciones de **15 minutos** seguidas de **5 minutos de preguntas**, enfocadas en investigaciones glaciológicas en los Andes, Patagonia y Península Antártica.  
+
 <br>
-Encontrará un programa preliminar en la [página del programa](schedule.md).
+Encontrará un programa preliminar en la [página del programa](https://docs.google.com/document/d/1a7MGchjgTesV7OQlPtlheMkxK8iKg9XwOrhqAUyFLA8/edit?usp=sharing).
 <br>
 
 # Organización 
@@ -59,12 +95,12 @@ Jeferson Prietsch Machado (Universidade Federal do Rio Grande, Brasil) <br>
 <br>
 Contacto: cryohydromettools@gmail.com
 
-Más información sobre los instructores [AQUÍ](https://cryohydromettools.github.io/TROPIPOLAR-GLASCLIM-Workshop.github.io/instructors). <br>
-<br>
+<!---Más información sobre los instructores [AQUÍ](https://cryohydromettools.github.io/TROPIPOLAR-GLASCLIM-Workshop.github.io/instructors). <br>
+<br>-->
 
 # Patrocinadores
 
-El Taller está patrocinado por el Proyecto "Tropical to polar glacier mass balance reconstructions and their relationship with climate variability - TROPIPOLAR-GLASCLIM" del Programa Internacional [CLIMAT-AmSud](https://www.sticmathamsud.org/sitio/).
+Los Talleres fueron/están patrocinados por el proyecto *“Tropical to Polar Glacier Mass Balance Reconstructions and Their Relationship with Climate Variability – TROPIPOLAR-GLASCLIM”* del programa internacional [CLIMAT-AmSud](https://www.sticmathamsud.org/sitio/).
 
 
 # Instituciones participantes
@@ -72,6 +108,19 @@ El Taller cuenta con el apoyo de las siguientes instituciones:
 <br>
 
 <img src="assets/imgs/Workshop-Huaraz_Logos_V2.png" width="750"> <br>
+
+
+# 1er Taller Internacional de Climatología y Glaciología
+
+Foto con los participantes del 1er Taller, Huaraz, Perú:
+<img src="assets/imgs/IMG_2943.JPG" width="750"> <br>
+
+<br>
+
+Foto de visita al Glaciar Llaca durante del 1er Taller, Huaraz, Perú
+<img src="assets/imgs/IMG_3120.JPG" width="750"> <br>
+
+<br>
 
 <!---
 
